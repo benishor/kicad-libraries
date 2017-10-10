@@ -13,4 +13,9 @@ $CMP PNP
 D NPN Transistor
 $ENDCMP
 #
+$CMP varicap
+D Diode, alternativ symbol
+K diode
+$ENDCMP
+#
 #End Doc Library
