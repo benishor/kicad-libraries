@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP HMC1031
+D 0.1 MHz to 500 MHz Clock Generator with Integer N PLL
+K HMC1031,PLL
+$ENDCMP
+#
 $CMP ICL8038
 D ICL 8038 Precision Waveform Generator/voltage Controlled Oscillator
 K generator,vco
