@@ -13,6 +13,12 @@ D IQ Modulator/Demodulator
 K IQ,Modulator,Demodulator
 $ENDCMP
 #
+$CMP BAT64-04
+D schottky barrier diode
+K schottky diode
+F http://www.diodes.com/_files/datasheets/ds11005.pdf
+$ENDCMP
+#
 $CMP DS90C401
 D Dual Low Voltage Differential Signaling (LVDS) Driver
 K LVDS,driver,differential
@@ -26,6 +32,11 @@ $ENDCMP
 $CMP ICL8038
 D ICL 8038 Precision Waveform Generator/voltage Controlled Oscillator
 K generator,vco
+$ENDCMP
+#
+$CMP LM2664
+D Switched Capacitor Voltage Converter
+F http://www.ti.com/lit/ds/symlink/lm2664.pdf
 $ENDCMP
 #
 $CMP NPN
