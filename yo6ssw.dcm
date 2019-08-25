@@ -19,6 +19,14 @@ K schottky diode
 F http://www.diodes.com/_files/datasheets/ds11005.pdf
 $ENDCMP
 #
+$CMP CVSS-945
+F https://www.crystek.com/crystal/spec-sheets/vcxo/CVSS-945.pdf
+$ENDCMP
+#
+$CMP DAC8571IDGKR
+F http://www.ti.com/lit/ds/symlink/dac8571.pdf
+$ENDCMP
+#
 $CMP DS90C401
 D Dual Low Voltage Differential Signaling (LVDS) Driver
 K LVDS,driver,differential
