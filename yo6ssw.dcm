@@ -47,6 +47,10 @@ D Switched Capacitor Voltage Converter
 F http://www.ti.com/lit/ds/symlink/lm2664.pdf
 $ENDCMP
 #
+$CMP LM317DCYR
+F http://www.ti.com/lit/ds/symlink/lm317.pdf
+$ENDCMP
+#
 $CMP NPN
 D NPN Transistor
 $ENDCMP
