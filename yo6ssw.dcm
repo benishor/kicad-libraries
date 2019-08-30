@@ -59,6 +59,10 @@ $CMP PNP
 D NPN Transistor
 $ENDCMP
 #
+$CMP TPS7A4501DCQT
+F http://www.ti.com/lit/ds/symlink/tps7a45.pdf
+$ENDCMP
+#
 $CMP varicap
 D Diode, alternativ symbol
 K diode
